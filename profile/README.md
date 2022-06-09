@@ -1,8 +1,10 @@
-# :pouting_cat: Trashcat Robotics :smiley_cat:
+# 😾 🤖
+
+🚧 Page Under Construction 🚧
 
 ### We Create
 
-#### :boxing_glove: Battlebots
+#### ⚔️ Battlebots
 
 #### :circus_tent: Entertainment
 
